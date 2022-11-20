@@ -1,0 +1,35 @@
+node be_connected[
+connected machine
+----
+server
+----
+enable RDP service
+----
+Listen on port 3389
+----
+run a client_server, connect to localhost:3389
+]
+
+cloud your_cloud[
+your.cloud.com
+----
+A machine on public network
+----
+or a KVM
+====
+listen on two port
+----
+transfer data between two connect from two port
+]
+
+node connect[
+computer for control
+----
+client
+----
+mstsc
+]
+
+be_connected --> be_connected
+connect --> your_cloud
+be_connected --> your_cloud

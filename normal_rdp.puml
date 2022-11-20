@@ -1,0 +1,19 @@
+node be_connected[
+connected machine
+----
+server
+----
+enable RDP service
+----
+Listen on port 3389
+]
+
+node connect[
+computer for control
+----
+client
+----
+mstsc
+]
+
+connect --> be_connected

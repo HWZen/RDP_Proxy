@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="375px" preserveAspectRatio="none" style="width:646px;height:375px;background:#FFFFFF;" version="1.1" viewBox="0 0 646 375" width="646px" zoomAndPan="magnify"><defs/><g><!--MD5=[e2874ff430e96dc9bdb612b3e0b4c395]
+entity be_connected--><g id="elem_be_connected"><polygon fill="#F1F1F1" points="16,16,26,6,384,6,384,139.4844,374,149.4844,16,149.4844,16,16" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="374" x2="384" y1="16" y2="6"/><line style="stroke:#181818;stroke-width:0.5;" x1="16" x2="374" y1="16" y2="16"/><line style="stroke:#181818;stroke-width:0.5;" x1="374" x2="374" y1="16" y2="149.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="31" y="38.9951">connected machine</text><line style="stroke:#181818;stroke-width:1.0;" x1="16" x2="374" y1="42.2969" y2="42.2969"/><line style="stroke:#181818;stroke-width:1.0;" x1="374" x2="384" y1="42.2969" y2="32.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="31" y="59.292">server</text><line style="stroke:#181818;stroke-width:1.0;" x1="16" x2="374" y1="66.5938" y2="66.5938"/><line style="stroke:#181818;stroke-width:1.0;" x1="374" x2="384" y1="66.5938" y2="56.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="31" y="83.5889">enable RDP service</text><line style="stroke:#181818;stroke-width:1.0;" x1="16" x2="374" y1="90.8906" y2="90.8906"/><line style="stroke:#181818;stroke-width:1.0;" x1="374" x2="384" y1="90.8906" y2="80.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="31" y="107.8857">Listen on port 3389</text><line style="stroke:#181818;stroke-width:1.0;" x1="16" x2="374" y1="115.1875" y2="115.1875"/><line style="stroke:#181818;stroke-width:1.0;" x1="374" x2="384" y1="115.1875" y2="105.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="328" x="31" y="132.1826">run a client_server, connect to localhost:3389</text></g><!--MD5=[59d285771d8b226cdc2d14e572e1d39a]
+entity your_cloud--><g id="elem_your_cloud"><path d="M187.475,218.749 C195.4794,208.1165 205.0161,206.1967 213.3837,218.3358 C220.7407,206.3076 232.1032,208.0679 237.655,220.1528 C245.9587,203.9112 256.3003,203.8826 266.381,218.4985 C272.0032,206.6425 283.3113,203.1356 292.2419,214.8718 C300.5731,204.7534 309.7321,205.4259 314.8814,218.0407 C322.2539,202.313 334.2069,201.46 344.3869,215.2327 C350.3933,204.7609 360.5729,201.4437 368.4232,213.2425 C378.3543,200.8145 389.7749,201.6438 395.9416,216.9743 C401.2135,202.2502 414.5163,201.8689 422.515,214.3066 C432.6915,202.424 440.2649,206.1333 447.2233,217.6978 C453.8601,206.3184 462.7821,205.1058 470.1694,216.9565 C478.2893,205.4476 490.8805,207.9121 496.628,219.656 C504.9151,207.0181 513.3989,208.3016 522.4916,218.7537 C534.5849,204.6574 546.781,208.8219 554,224 C555.149,222.661 556.8654,222.6401 557.5399,224.5216 C572.6543,235.9721 569.7175,245.4454 555.4358,254.8571 C567.8619,263.1654 567.1744,271.7258 556.5758,281.0367 C572.1742,292.7759 569.0152,302.687 554.8057,312.7632 C569.2055,324.7758 564.3343,340.2806 547,344.4844 C548.8066,343.9824 550.1121,345.0687 549.386,346.9842 C542.6198,358.9362 532.9711,360.7072 523.6662,349.8464 C515.8504,361.1085 507.6234,364.317 498.338,351.385 C490.0916,364.766 478.294,363.8634 471.1532,350.2708 C463.4413,360.223 453.7022,361.4634 446.2334,349.9882 C440.1799,364.5954 430.2715,366.4929 418.9697,355.5993 C410.48,367.7956 399.3514,367.2508 392.3962,353.9971 C386.2569,365.3124 376.954,368.7272 368.1015,356.8378 C360.7873,367.8719 348.7941,368.4357 342.4474,355.7896 C333.5933,366.7609 323.9927,365.2427 317.4049,353.3115 C308.1855,367.3947 296.9,366.4972 289.0953,351.9144 C282.6658,362.0531 272.0176,361.3755 265.6371,351.8559 C254.792,366.0262 243.9429,364.3906 236.9855,348.1885 C228.8603,360.277 219.1556,358.1911 211.9063,347.2352 C197.2849,359.5726 183.1369,358.1271 178,337.4844 C178.8517,337.5721 179.331,338.1441 178.781,338.9691 C165.9932,330.8233 167.9498,320.668 179.1581,312.8689 C163.4694,305.1078 160.3707,292.9836 174.7922,281.0863 C162.4215,272.1635 162.4327,262.4676 175.3831,254.0991 C158.8532,237.7844 165.2243,223.9035 185,217 C186.3999,216.4798 187.6347,217.0625 187.475,218.749 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="185" y="236.9951">your.cloud.com</text><line style="stroke:#181818;stroke-width:1.0;" x1="171" x2="561" y1="240.2969" y2="240.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="209" x="185" y="257.292">A machine on public network</text><line style="stroke:#181818;stroke-width:1.0;" x1="171" x2="561" y1="264.5938" y2="264.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="185" y="281.5889">or a KVM</text><line style="stroke:#181818;stroke-width:1.0;" x1="171" x2="561" y1="288.8906" y2="288.8906"/><line style="stroke:#181818;stroke-width:1.0;" x1="171" x2="561" y1="290.8906" y2="290.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="185" y="305.8857">listen on two port</text><line style="stroke:#181818;stroke-width:1.0;" x1="171" x2="561" y1="313.1875" y2="313.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="362" x="185" y="330.1826">transfer data between two connect from two port</text></g><!--MD5=[1aa241eeb37081fd15bb0f8856a6ec00]
+entity connect--><g id="elem_connect"><polygon fill="#F1F1F1" points="437,40,447,30,629,30,629,114.8906,619,124.8906,437,124.8906,437,40" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="619" x2="629" y1="40" y2="30"/><line style="stroke:#181818;stroke-width:0.5;" x1="437" x2="619" y1="40" y2="40"/><line style="stroke:#181818;stroke-width:0.5;" x1="619" x2="619" y1="40" y2="124.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="452" y="62.9951">computer for control</text><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="619" y1="66.2969" y2="66.2969"/><line style="stroke:#181818;stroke-width:1.0;" x1="619" x2="629" y1="66.2969" y2="56.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="452" y="83.292">client</text><line style="stroke:#181818;stroke-width:1.0;" x1="437" x2="619" y1="90.5938" y2="90.5938"/><line style="stroke:#181818;stroke-width:1.0;" x1="619" x2="629" y1="90.5938" y2="80.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="452" y="107.5889">mstsc</text></g><!--MD5=[4996fa61bd8eac0d38b5825b763af2ed]
+link be_connected to be_connected--><g id="link_be_connected_be_connected"><path codeLine="33" d="M384.13,45.289 C405.272,51.278 419,62.015 419,77.5 C419,91.776 407.333,102.016 388.946,108.22 " fill="none" id="be_connected-to-be_connected" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="384.13,109.711,393.9104,110.8703,388.9063,108.2322,391.5444,103.2282,384.13,109.711" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6d63137aecdd9af7f1a86bee7ed81f43]
+link connect to your_cloud--><g id="link_connect_your_cloud"><path codeLine="34" d="M494.267,125.119 C474.614,148.773 450.263,178.082 428.076,204.786 " fill="none" id="connect-to-your_cloud" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="424.819,208.706,433.6467,204.3389,428.0139,204.8599,427.4929,199.2271,424.819,208.706" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c20c653aa826bd00d831fafd03880ef3]
+link be_connected to your_cloud--><g id="link_be_connected_your_cloud"><path codeLine="35" d="M258.292,149.082 C273.144,167.065 289.157,186.455 304.178,204.643 " fill="none" id="be_connected-to-your_cloud" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="307.568,208.748,304.9195,199.2619,304.3834,204.8933,298.752,204.3573,307.568,208.748" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ce8d728a9d85f2d6db977b3f8207864a]
+@startuml
+node be_connected[
+connected machine
+- - - -
+server
+- - - -
+enable RDP service
+- - - -
+Listen on port 3389
+- - - -
+run a client_server, connect to localhost:3389
+]
+
+cloud your_cloud[
+your.cloud.com
+- - - -
+A machine on public network
+- - - -
+or a KVM
+====
+listen on two port
+- - - -
+transfer data between two connect from two port
+]
+
+node connect[
+computer for control
+- - - -
+client
+- - - -
+mstsc
+]
+
+be_connected - -> be_connected
+connect - -> your_cloud
+be_connected - -> your_cloud
+@enduml
+
+PlantUML version 1.2022.13beta8(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
